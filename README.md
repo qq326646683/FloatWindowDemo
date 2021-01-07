@@ -9,10 +9,10 @@
 ![image](http://file.jinxianyun.com/floatwindowroute.jpg)
 [image](http://file.jinxianyun.com/floatwindowroute.jpg)
 
-> 功能概览(⚠️:黄色标记处有坑,下面有解释和解决办法)
-1. splash->首页->详情页->悬浮窗页->回到桌面->点击桌面App图标->==悬浮窗页==
+> 功能概览(⚠️:【】标记处有坑,后面有解释和解决办法)
+1. splash->首页->详情页->悬浮窗页->回到桌面->点击桌面App图标->【悬浮窗页】
 2. splash->首页->详情页->悬浮窗页->开启悬浮窗->点击悬浮窗->悬浮窗页
-2. splash->首页->详情页->悬浮窗页->开启悬浮窗->回到桌面->点击悬浮窗->悬浮窗页->==返回详情页==
+2. splash->首页->详情页->悬浮窗页->开启悬浮窗->回到桌面->点击悬浮窗->悬浮窗页->【返回详情页】
 
 #### 2.功能实现
 - 在AndroidManifest.xml将悬浮窗页面android:launchMode="singleInstance"
