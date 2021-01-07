@@ -1,13 +1,13 @@
 #### 1.背景介绍
 开启悬浮窗后,小窗悬浮在app内及桌面上,并保持悬浮窗页面所有状态
-> 成品预览
+> 预览
 
-![image](http://file.jinxianyun.com/floatwindowdemo.mp4)
+![image](http://file.jinxianyun.com/floatwindowdemo.gif)
+[video](http://file.jinxianyun.com/floatwindowdemo.mp4)
 > 路由介绍
 
 ![image](http://file.jinxianyun.com/floatwindowroute.jpg)
-
-[++image++](http://file.jinxianyun.com/floatwindowroute.jpg)
+[image](http://file.jinxianyun.com/floatwindowroute.jpg)
 
 > 功能概览(⚠️:黄色标记处有坑,下面有解释和解决办法)
 1. splash->首页->详情页->悬浮窗页->回到桌面->点击桌面App图标->==悬浮窗页==
@@ -98,4 +98,6 @@ if (isAppInBg) {
     isAppInBg = false
 }
 ```
+---
+源码已上传至[github](https://github.com/qq326646683/FloatWindowDemo)
 
